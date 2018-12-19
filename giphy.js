@@ -1,5 +1,5 @@
 
-var topics = ["Coral Reef", "Sharks", "Dolphins", "Penguins", "Sea Turtles"]
+var topics = ["Kelp Forest", "Sharks", "Dolphins", "Penguins", "Sea Turtles"]
 
 
 //Function 1) Show Buttons
